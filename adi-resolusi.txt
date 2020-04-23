@@ -1,6 +1,6 @@
 Resolusi Saya Muhamad Adi Mulyana 2020
 - Menyelesaikan Projek INS
 - Belajar membuat API (Web Service Menggunakan CI)
-- Pelajari lebih dalam Git Hub
 - Pelajari Laravel 6
 - Pelajari lebih dalam database
+- Pelajari design web socket/pusher
