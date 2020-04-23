@@ -5,3 +5,4 @@ Rencana Adi
 - Usahakan dalam sehari sempatkan belajar 2 jam
 - Belajar ERP
 - Menambahkan materi python
+- Add 
