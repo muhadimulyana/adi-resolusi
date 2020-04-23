@@ -1,6 +1,8 @@
 Rencana Adi
 - Belajar javascript
   + Belajar ES 6
-  + Belajar Framework Angular
+  + Belajar Framework Javascript Vue
 - Usahakan dalam sehari sempatkan belajar 2 jam
-- Belajar Ruby
+- Belajar ERP
+- Menambahkan materi python
+- Add 
