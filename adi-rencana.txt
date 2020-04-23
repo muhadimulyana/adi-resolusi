@@ -1,0 +1,5 @@
+Rencana Adi
+- Belajar javascript
+  + Belajar ES 6
+  + Belajar Framework
+- Usahakan dalam sehari sempatkan belajar 2 jam
