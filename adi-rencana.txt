@@ -6,3 +6,6 @@ Rencana Adi
 - Belajar ERP
 - Menambahkan materi python
 - Add 
+- Edit 
+- Delete 
+- Blaaa
