@@ -3,6 +3,6 @@ Rencana Adi
   + Belajar ES 6
   + Belajar Framework Javascript Vue
 - Usahakan dalam sehari sempatkan belajar 2 jam
-- Belajar ERP
+- Belajar ERP dari awal
 - Menambahkan materi python
 - Add 
